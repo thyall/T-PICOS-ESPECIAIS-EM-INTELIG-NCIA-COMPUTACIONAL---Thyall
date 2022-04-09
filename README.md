@@ -11,7 +11,7 @@ administrada pelo professor Ivanovitch.
 
 
 ### Artigos
-- 
+- [Artificial Intelligence and Software Engineering: Are We Ready?](https://github.com/thyall/T-PICOS-ESPECIAIS-EM-INTELIG-NCIA-COMPUTACIONAL---Thyall/blob/main/Artigos/Resume-Artificial%20Intelligence%20and%20Software%20Engineering.md)
 
 
 ### Certificados
